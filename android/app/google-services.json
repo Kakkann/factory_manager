@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299177190445",
+    "project_id": "factory-manager-f2979",
+    "storage_bucket": "factory-manager-f2979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299177190445:android:6bc35fec1e8ca1165d04a4",
+        "android_client_info": {
+          "package_name": "com.example.factory_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVO8GGQ_F9ckbNkbrgcK0zm1J-ToD1rCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
